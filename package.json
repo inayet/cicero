@@ -6,7 +6,7 @@
     "eslint": "^8.43.0",
     "jsdoc": "^4.0.2",
     "license-check-and-add": "4.0.5",
-    "semver": "7.5.3",
+    "semver": "7.5.4",
     "sleep-promise": "9.1.0",
     "source-map-support": "0.5.21"
   },
